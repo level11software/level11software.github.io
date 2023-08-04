@@ -1,5 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300&display=swap');
+
 
 /*
 	Solid State by HTML5 UP
@@ -24,6 +26,14 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+
+h2#lvl11_logo {
+	font-family: 'Albert Sans', sans-serif;
+}
+
+#lvl11_font {
+	font-family: 'Albert Sans', sans-serif;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
