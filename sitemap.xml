@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- https://level11.software/ with max priority -->
+    <url>
+        <loc>https://level11.software/</loc>
+        <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- https://www.level11.software/ -->
+    <url>
+        <loc>https://www.level11.software/</loc>
+        <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- https://speex.level11.software/ -->
+    <url>
+        <loc>https://speex.level11.software/</loc>
+        <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
