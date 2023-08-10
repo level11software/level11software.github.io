@@ -4156,3 +4156,31 @@ input, select, textarea {
 		}
 
 	}
+
+/* ALE: PROFILE OF OTHER COLLABORATORS */
+
+.profile-row {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.profile {
+	text-align: center;
+}
+
+.profile-image {
+	border-radius: 50%;
+	width: 180px; /* Adjust the size as needed */
+	height: 180px;
+}
+
+.name {
+	font-size: 18px; /* Adjust the size as needed */
+	margin-bottom: 2px;
+}
+
+.role {
+	font-size: 15px; /* Adjust the size as needed */
+	color: #777; /* Adjust the color as needed */
+}
